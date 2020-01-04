@@ -1193,6 +1193,114 @@ section.lazy-placeholder:after {
 .cid-rMyWCzbyot textarea.form-control {
   min-height: 188px;
 }
+.cid-rMrmGQ7yNk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rMrmGQ7yNk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rMrmGQ7yNk .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rMrmGQ7yNk .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rMrmGQ7yNk .team-item .item-image img {
+  width: 100%;
+}
+.cid-rMrmGQ7yNk .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rMrmGQ7yNk .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rMrmGQ7yNk .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rMrmGQ7yNk .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rMrmGQ7yNk .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rMrmGQ7yNk .item-name {
+  text-align: center;
+}
+.cid-rMrmGQ7yNk .item-role P {
+  text-align: left;
+}
+.cid-rMBCrqRUKn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rMBCrqRUKn h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rMBCrqRUKn p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rMBCrqRUKn .card-img {
+  width: auto;
+}
+.cid-rMBCrqRUKn .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rMBCrqRUKn .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rMBCrqRUKn .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rMBCrqRUKn .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rMrbZc6Xvf .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-rMrbZc6Xvf .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rMrbZc6Xvf .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rMrbZc6Xvf .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rMrbZc6Xvf .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1259,76 +1367,4 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-rMrmGQ7yNk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rMrmGQ7yNk .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rMrmGQ7yNk .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rMrmGQ7yNk .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rMrmGQ7yNk .team-item .item-image img {
-  width: 100%;
-}
-.cid-rMrmGQ7yNk .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rMrmGQ7yNk .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rMrmGQ7yNk .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rMrmGQ7yNk .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rMrmGQ7yNk .team-item .item-caption {
-  background: #efefef;
-}
-.cid-rMrmGQ7yNk .item-name {
-  text-align: center;
-}
-.cid-rMrmGQ7yNk .item-role P {
-  text-align: left;
-}
-.cid-rMrbZc6Xvf .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rMrbZc6Xvf .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rMrbZc6Xvf .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rMrbZc6Xvf .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rMrbZc6Xvf .google-map[data-state="loading"] [data-state-details] {
-  display: none;
 }
