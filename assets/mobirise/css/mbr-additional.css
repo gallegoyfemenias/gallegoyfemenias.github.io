@@ -1129,15 +1129,6 @@ section.lazy-placeholder:after {
   display: none;
   transition: opacity .3s;
 }
-.cid-rMrdGAZiiL .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rMrdGAZiiL .card-wrapper .card-img img {
   width: 100%;
 }
@@ -1163,14 +1154,8 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rMrdGAZiiL .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rMrdGAZiiL .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rMrdGAZiiL .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rMyWCzbyot {
   padding-top: 90px;
