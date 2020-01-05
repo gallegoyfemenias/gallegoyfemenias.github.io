@@ -1178,6 +1178,27 @@ section.lazy-placeholder:after {
 .cid-rMyWCzbyot textarea.form-control {
   min-height: 188px;
 }
+.cid-rMHZQ1SPR5 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rMHZQ1SPR5 .image-block {
+  margin: auto;
+}
+.cid-rMHZQ1SPR5 figcaption {
+  position: relative;
+}
+.cid-rMHZQ1SPR5 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rMHZQ1SPR5 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rMrmGQ7yNk {
   padding-top: 90px;
   padding-bottom: 90px;
