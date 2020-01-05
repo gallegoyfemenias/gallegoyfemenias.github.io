@@ -1178,24 +1178,26 @@ section.lazy-placeholder:after {
 .cid-rMyWCzbyot textarea.form-control {
   min-height: 188px;
 }
-.cid-rMHZQ1SPR5 {
+.cid-rMI0z6FBMU {
   background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
-.cid-rMHZQ1SPR5 .image-block {
+.cid-rMI0z6FBMU .image-block {
   margin: auto;
+  width: 100% !important;
 }
-.cid-rMHZQ1SPR5 figcaption {
+.cid-rMI0z6FBMU .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rMI0z6FBMU figcaption {
   position: relative;
 }
-.cid-rMHZQ1SPR5 figcaption div {
+.cid-rMI0z6FBMU figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rMHZQ1SPR5 .image-block {
+  .cid-rMI0z6FBMU .image-block {
     width: 100% !important;
   }
 }
